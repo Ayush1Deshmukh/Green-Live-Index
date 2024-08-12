@@ -3,6 +3,8 @@
 
 Welcome to **Green Live Index**, a project by [**Ayush1Deshmukh**](https://github.com/Ayush1Deshmukh).
 
+## Website Link
+https://ayush1deshmukh.github.io/Green-Live-Index/
 ## Overview
 
 The **Green Live Index** is a web-based platform aimed at promoting environmental awareness and sustainability. By leveraging interactive media and modern web technologies, this project seeks to engage users and educate them about green initiatives.
